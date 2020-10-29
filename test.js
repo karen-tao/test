@@ -1,1 +1,1 @@
-console.log('testing github tealium integration');
+console.log('testing github tealium integration personal account');
